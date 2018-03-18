@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\STL">
+      <UniqueIdentifier>{150ee159-a53c-4e2e-b616-111390bc379e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1.cpp">
+      <Filter>源文件\STL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
