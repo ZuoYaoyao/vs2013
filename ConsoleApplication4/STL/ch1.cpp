@@ -1,3 +1,4 @@
+/*
 #include<array>
 #include<cstdio>
 #include<stack>
@@ -18,3 +19,4 @@ int main()
 
 	return 0;
 }
+*/
